@@ -1,3 +1,3 @@
 # Manglar-Arquitectura
 
-Pagina web del estudi de arquitectura Manglar
+Pagina web del estudio de arquitectura Manglar

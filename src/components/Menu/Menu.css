@@ -1,0 +1,38 @@
+.header{
+    margin-bottom: 10px;
+}
+.header__nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+Navbar.Brand{
+    max-width: 100%;
+    margin: auto;
+    text-align: center;
+}
+.header__logo img{
+    margin-top: 20px;
+    text-align: center;
+    max-width: 100%;
+    width: 220px;
+}
+
+.nav-item{
+    margin-right: 5px;
+    text-align: center;
+    font-size: 14px;
+    letter-spacing: 1.5px;
+    font-weight: 600;
+    color: var(--grey);
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.nav-item:hover{
+    color: var(--greyLight);
+}
+
+
